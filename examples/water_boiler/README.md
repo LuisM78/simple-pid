@@ -44,4 +44,4 @@ Typically, the sign of that is usually one the following errors:
 
 
 # Plot of simulation
-<img src="https://github.com/LuisM78/simple-pid/blob/master/examples/water_boiler/Control_de_temperature_Juan.png" width="350" height="250">
+<img src="https://github.com/LuisM78/simple-pid/blob/master/examples/water_boiler/Control_de_temperature_Juan.png" width="650" height="450">
