@@ -40,3 +40,9 @@ Typically, the sign of that is usually one the following errors:
 
 - `UserWarning: Matplotlib is currently using agg, which is a non-GUI backend, so cannot show the figure.`
 - `AttributeError: module 'cairo' has no attribute 'version_info'` (if the system dependencies are already available but not the corresponding Python dependencies)
+
+
+<!--- # ![Raspberry pi and Led](/images/Raspberry_pi_picture.jpeg) -->
+
+# Rapsberry pi image with LED
+<img src="https://github.com/LuisM78/simple_pid/examples/Control_de_temperature_Juan.png" width="350" height="250">
