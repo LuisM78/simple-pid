@@ -42,7 +42,6 @@ Typically, the sign of that is usually one the following errors:
 - `AttributeError: module 'cairo' has no attribute 'version_info'` (if the system dependencies are already available but not the corresponding Python dependencies)
 
 
-<!--- # ![Raspberry pi and Led](/images/Raspberry_pi_picture.jpeg) -->
 
-# Rapsberry pi image with LED
-<img src="https://github.com/LuisM78/simple_pid/examples/Control_de_temperature_Juan.png" width="350" height="250">
+# Plot of simulation
+<img src="https://github.com/LuisM78/simple-pid/blob/master/examples/water_boiler/Control_de_temperature_Juan.png" width="350" height="250">
